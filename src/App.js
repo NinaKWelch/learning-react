@@ -117,7 +117,7 @@ const App = () => {
   }
 
   const loginForm = () => (
-    <Togglable buttonLabel='Login'>
+    <Togglable buttonLabel='Log in'>
       <LoginForm
         username={username}
         password={password}
